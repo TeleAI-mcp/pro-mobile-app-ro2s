@@ -1,2 +1,3 @@
-# pro-mobile-app-ro2s
-Automated issue comment bot repository
+# Pro Mobile App Ro2S
+
+Automated issue comment bot repository.
